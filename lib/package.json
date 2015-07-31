@@ -1,0 +1,19 @@
+{
+  "name": "nest-uebersicht-widget",
+  "version": "0.0.1",
+  "description": "An uebersicht widget to control your nest thermostat",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/baberthal/nest-uebersicht-widget.git"
+  },
+  "author": "J. Morgan Lieberthal",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/baberthal/nest-uebersicht-widget/issues"
+  },
+  "homepage": "https://github.com/baberthal/nest-uebersicht-widget#readme"
+}
